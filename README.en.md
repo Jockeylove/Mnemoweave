@@ -1,5 +1,9 @@
 # MnemoWeave · 忆织平台
 
+![MnemoWeave concept art: companions weave individual memories into a shared tapestry of adventures while some fragments fade](assets/mnemoweave-hero.png)
+
+*Concept illustration, not an in-game screenshot.*
+
 **Separate memories. A shared truth.**
 
 [简体中文](README.md)
@@ -55,6 +59,7 @@ The detailed design documents are currently in Chinese.
 | [Development roadmap](docs/roadmap.md) | Milestones, implementation tasks, and acceptance criteria |
 | [Presentation guide](docs/demo-guide.md) | Live walkthrough, audience interaction, and recorded replay |
 | [Cost estimate](docs/cost-estimate.md) | API usage assumptions, planning budget, and measurement |
+| [Visual design](docs/visual-design.md) | Concept illustration, visual meaning, and generation prompt |
 
 ## Design principles
 
@@ -83,3 +88,9 @@ GitHub repository description: **A multi-scenario AI adventure platform where ag
 Current descriptive subtitle: **A Multi-Scenario AI Adventure Platform Built Around Team Memory**.
 
 Design updated: 2026-10-09.
+
+## License
+
+Unless otherwise noted, the contents of this repository are licensed under the [Apache License 2.0](LICENSE), which permits commercial use, modification, and distribution. Use and redistribution must comply with the license, preserve applicable copyright and attribution notices, and prominently identify modified files.
+
+Project attribution is provided in [NOTICE](NOTICE). The license does not grant trademark rights to the project name or marks.

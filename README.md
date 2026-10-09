@@ -1,5 +1,9 @@
 # 忆织平台 · MnemoWeave
 
+![忆织概念插画：伙伴将各自的记忆织成包含山庄、飞船与遗迹的共同故事，外围片段逐渐淡去](assets/mnemoweave-hero.png)
+
+*概念插画，非游戏实机截图。*
+
 **每个人记得一部分，真相需要一起拼。**  
 *Separate memories. A shared truth.*
 
@@ -54,6 +58,7 @@
 | [开发路线](docs/roadmap.md) | 分阶段实现、任务拆分及完成条件 |
 | [演示指南](docs/demo-guide.md) | 现场流程、观众操作、分支比较与录制回放 |
 | [成本估算](docs/cost-estimate.md) | 调用量假设、API 预算和实测记录方式 |
+| [配图设计](docs/visual-design.md) | 概念插画用途、视觉含义与生成提示词 |
 
 开发建议按“游戏设计 → 首案配置 → 记忆机制 → 开发路线”阅读。正式演示前再阅读演示指南。
 
@@ -84,3 +89,9 @@ GitHub 仓库 description：**A multi-scenario AI adventure platform where agent
 当前描述性副标题：**多剧本 AI 记忆协作冒险平台 / A Multi-Scenario AI Adventure Platform Built Around Team Memory**。
 
 设计更新：2026-10-09。
+
+## 许可证
+
+除另有声明外，本仓库内容采用 [Apache License 2.0](LICENSE)，允许商业使用、修改与分发。使用或再分发时须遵守许可证，保留适用的版权及归属声明，并对修改过的文件作出显著说明。
+
+项目归属信息见 [NOTICE](NOTICE)。本许可证不授予项目名称或标识的商标使用权。
